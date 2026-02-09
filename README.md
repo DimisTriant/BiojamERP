@@ -5,6 +5,7 @@ BiojamERP is a Java-based ERP system developed as part of a university programmi
 The project focuses on the **analysis, design, and implementation of a complete information system** for a small organic jam manufacturing company, addressing real operational and data-related challenges.
 
 
+
 ## Project Overview
 
 The Biojam company faces multiple operational inefficiencies, including:
@@ -14,6 +15,7 @@ The Biojam company faces multiple operational inefficiencies, including:
 - Limited support for data-driven decision making
 
 BiojamERP was designed to simulate a centralized ERP solution that improves process efficiency, data consistency, and managerial insight.
+
 
 
 ## System Scope & Features
@@ -26,6 +28,7 @@ The system supports core ERP functionalities such as:
 - Basic reporting and summaries
 
 The project follows a structured system development lifecycle, including preparation, analysis, design, and implementation phases.
+
 
 
 ## Data & Process Analysis
@@ -45,6 +48,7 @@ Key data entities modeled in the system:
 These entities form a structured data foundation suitable for future analytics and optimization.
 
 
+
 ## System Design & Implementation
 
 - **Language:** Java (console-based application)
@@ -53,6 +57,7 @@ These entities form a structured data foundation suitable for future analytics a
 - **Tools:** Visual Paradigm, Eclipse IDE
 
 The implementation follows the final class diagram and supports the primary business workflows defined during the analysis phase.
+
 
 
 ## Project Management & Collaboration
@@ -66,6 +71,7 @@ This project was developed as a **team-based academic project** and includes:
 This ensured structured collaboration and controlled project execution.
 
 
+
 ## Personal Contribution
 
 - Business and system requirements analysis  
@@ -73,6 +79,7 @@ This ensured structured collaboration and controlled project execution.
 - UML design (Class and Sequence diagrams)  
 - Java implementation of core ERP functionality  
 - Contribution to documentation and system validation  
+
 
 
 ## Documentation
@@ -85,6 +92,7 @@ This ensured structured collaboration and controlled project execution.
 > The main documentation is written in Greek, as the project was developed within the context of a university course.
 
 
+
 ## Analytics & AI Perspective (Future Extensions)
 
 While the current implementation is rule-based, the system was designed with data-driven decision support in mind.  
@@ -93,6 +101,7 @@ Potential future extensions include:
 - Inventory optimization and anomaly detection
 - Supplier performance analysis
 - KPI dashboards and business intelligence reporting
+
 
 
 ## Disclaimer
