@@ -108,4 +108,3 @@ Potential future extensions include:
 
 This project was developed for academic purposes and simulates a real-world ERP system for learning and demonstration.
 
-This project was developed for academic purposes and simulates a real-world ERP system for learning and demonstration.
